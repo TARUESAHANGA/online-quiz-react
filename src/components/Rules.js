@@ -12,7 +12,7 @@ const Rules = () => {
         </ol>
       </div>
       <div className="button">
-        <button><a className="play-btn" href="/">Play</a></button>
+        <button className="start-quiz-btn"><a className="play-btn" href="/">Start</a></button>
       </div>
     </div>
   );

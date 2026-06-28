@@ -17,3 +17,14 @@ li {
 span {
   color: #32CD32;
 }
+.start-quiz-btn {
+  color: #5145ba;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+  background: #fff;
+  padding: 13px 25px;
+  font-size: 1rem;
+  border-radius: 6px;
+  transition: background 0.3s ease;
+}
