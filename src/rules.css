@@ -1,0 +1,19 @@
+h2 {
+  color: #f1356d;
+}
+.rule-list {
+  margin-top: 15px;
+  width: 400px;
+}
+.button {
+  margin-top: 20px;
+}
+.play-btn {
+  text-decoration: none;
+}
+li {
+  color: #fff;
+}
+span {
+  color: #32CD32;
+}
