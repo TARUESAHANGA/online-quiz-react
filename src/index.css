@@ -6,6 +6,12 @@
   font-family: "Quicksand";
   color: #333;
 }
+body{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
 .navbar {
   padding: 20px;
   display: flex;
@@ -25,6 +31,24 @@
   text-decoration: none;
   padding: 6px;
 }
-.navbar a:hover {
+.navbar a:hover,
+.play-btn:hover {
   color: #f1356d;
+}
+/* rule section */
+.rule-list {
+  margin-top: 15px;
+  width: 400px;
+}
+.button {
+  margin-top: 20px;
+}
+button {
+ font-size: medium;
+ background: #FFF0F5;
+ color: #2372c2;
+ cursor: pointer;
+}
+.play-btn {
+  text-decoration: none;
 }
